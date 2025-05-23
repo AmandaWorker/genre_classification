@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/ffd8dc57d9274d28a68a314596915ecc/artifacts
+end_time: 1747401082818
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: ffd8dc57d9274d28a68a314596915ecc
+run_uuid: ffd8dc57d9274d28a68a314596915ecc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747339639059
+status: 3
+tags: []
+user_id: amandaworker

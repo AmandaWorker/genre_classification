@@ -1,0 +1,29 @@
+2025-05-13 19:29:55,596 INFO    MainThread:35470 [wandb_setup.py:_flush():70] Current SDK version is 0.19.11
+2025-05-13 19:29:55,597 INFO    MainThread:35470 [wandb_setup.py:_flush():70] Configure stats pid to 35470
+2025-05-13 19:29:55,597 INFO    MainThread:35470 [wandb_setup.py:_flush():70] Loading settings from /Users/amandaworker/.config/wandb/settings
+2025-05-13 19:29:55,597 INFO    MainThread:35470 [wandb_setup.py:_flush():70] Loading settings from /Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/wandb/settings
+2025-05-13 19:29:55,597 INFO    MainThread:35470 [wandb_setup.py:_flush():70] Loading settings from environment variables
+2025-05-13 19:29:55,597 INFO    MainThread:35470 [wandb_init.py:setup_run_log_directory():724] Logging user logs to /Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/wandb/run-20250513_192955-8v44nf61/logs/debug.log
+2025-05-13 19:29:55,597 INFO    MainThread:35470 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to /Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/wandb/run-20250513_192955-8v44nf61/logs/debug-internal.log
+2025-05-13 19:29:55,597 INFO    MainThread:35470 [wandb_init.py:init():852] calling init triggers
+2025-05-13 19:29:55,597 INFO    MainThread:35470 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-05-13 19:29:55,597 INFO    MainThread:35470 [wandb_init.py:init():893] starting backend
+2025-05-13 19:29:55,598 INFO    MainThread:35470 [wandb_init.py:init():897] sending inform_init request
+2025-05-13 19:29:55,648 INFO    MainThread:35470 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-05-13 19:29:55,649 INFO    MainThread:35470 [wandb_init.py:init():907] backend started and connected
+2025-05-13 19:29:55,654 INFO    MainThread:35470 [wandb_init.py:init():1005] updated telemetry
+2025-05-13 19:29:55,656 INFO    MainThread:35470 [wandb_init.py:init():1029] communicating run to backend with 90.0 second timeout
+2025-05-13 19:29:56,408 INFO    MainThread:35470 [wandb_init.py:init():1104] starting run threads in backend
+2025-05-13 19:29:56,659 INFO    MainThread:35470 [wandb_run.py:_console_start():2573] atexit reg
+2025-05-13 19:29:56,660 INFO    MainThread:35470 [wandb_run.py:_redirect():2421] redirect: wrap_raw
+2025-05-13 19:29:56,660 INFO    MainThread:35470 [wandb_run.py:_redirect():2490] Wrapping output streams.
+2025-05-13 19:29:56,661 INFO    MainThread:35470 [wandb_run.py:_redirect():2513] Redirects installed.
+2025-05-13 19:29:56,664 INFO    MainThread:35470 [wandb_init.py:init():1150] run started, returning control to user process
+2025-05-13 19:29:59,978 INFO    MainThread:35470 [wandb_run.py:_finish():2321] finishing run workeramanda-na/exercise_2/8v44nf61
+2025-05-13 19:29:59,979 INFO    MainThread:35470 [wandb_run.py:_atexit_cleanup():2538] got exitcode: 0
+2025-05-13 19:29:59,979 INFO    MainThread:35470 [wandb_run.py:_restore():2520] restore
+2025-05-13 19:29:59,979 INFO    MainThread:35470 [wandb_run.py:_restore():2526] restore done
+2025-05-13 19:30:01,517 INFO    MainThread:35470 [wandb_run.py:_footer_history_summary_info():4188] rendering history
+2025-05-13 19:30:01,518 INFO    MainThread:35470 [wandb_run.py:_footer_history_summary_info():4220] rendering summary
+2025-05-13 19:30:01,518 INFO    MainThread:35470 [wandb_run.py:_footer_sync_info():4149] logging synced files

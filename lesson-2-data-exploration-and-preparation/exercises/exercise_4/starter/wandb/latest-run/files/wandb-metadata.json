@@ -1,0 +1,39 @@
+{
+    "os": "macOS-12.7.6-x86_64-i386-64bit",
+    "python": "3.10.17",
+    "heartbeatAt": "2025-05-15T20:11:00.291421",
+    "startedAt": "2025-05-15T20:10:59.393420",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "EDA.ipynb",
+    "codePathLocal": "EDA.ipynb",
+    "root": "/Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter",
+    "host": "Amandas-MacBook-Pro.local",
+    "username": "amandaworker",
+    "executable": "/opt/miniconda3/envs/mlflow-2a0c7dd54e29a61664f055917207b8cbc6944621/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 465.62699127197266,
+            "used": 237.18885803222656
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

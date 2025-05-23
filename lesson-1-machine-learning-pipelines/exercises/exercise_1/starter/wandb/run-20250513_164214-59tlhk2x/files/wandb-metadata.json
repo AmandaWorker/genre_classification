@@ -1,0 +1,41 @@
+{
+  "os": "macOS-10.16-x86_64-i386-64bit",
+  "python": "CPython 3.8.20",
+  "startedAt": "2025-05-13T15:42:14.116211Z",
+  "args": [
+    "--input_file",
+    "zen.txt",
+    "--artifact_name",
+    "zen_of_python",
+    "--artifact_type",
+    "text_file",
+    "--artifact_description",
+    "20 aphorisms about writing good python code"
+  ],
+  "program": "upload_artifact.py",
+  "codePath": "upload_artifact.py",
+  "email": "workeramanda@gmail.com",
+  "root": "/Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter",
+  "host": "Amandas-MacBook-Pro.local",
+  "executable": "/Users/amandaworker/opt/anaconda3/envs/ML_pipeline/bin/python",
+  "codePathLocal": "upload_artifact.py",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "499963174912",
+      "used": "235512188928"
+    },
+    "/System/Volumes/Data": {
+      "total": "499963174912",
+      "used": "235512188928"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 2,
+    "countLogical": 4
+  }
+}

@@ -1,0 +1,16 @@
+{"time":"2025-05-13T16:33:44.052198+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/wandb/run-20250513_163343-fwh58s8z/logs/debug-core.log"}
+{"time":"2025-05-13T16:33:44.081296+01:00","level":"ERROR","msg":"monitor: failed to initialize GPU asset: monitor: could not start GPU binary: fork/exec /Users/amandaworker/opt/anaconda3/envs/ML_pipeline/lib/python3.8/site-packages/wandb/bin/gpu_stats: bad CPU type in executable"}
+{"time":"2025-05-13T16:33:44.365519+01:00","level":"INFO","msg":"created new stream","id":"fwh58s8z"}
+{"time":"2025-05-13T16:33:44.365578+01:00","level":"INFO","msg":"stream: started","id":"fwh58s8z"}
+{"time":"2025-05-13T16:33:44.365897+01:00","level":"INFO","msg":"sender: started","stream_id":"fwh58s8z"}
+{"time":"2025-05-13T16:33:44.365943+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"fwh58s8z"}
+{"time":"2025-05-13T16:33:44.366076+01:00","level":"INFO","msg":"handler: started","stream_id":"fwh58s8z"}
+{"time":"2025-05-13T16:33:44.801227+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-13T16:33:45.528974+01:00","level":"INFO","msg":"stream: closing","id":"fwh58s8z"}
+{"time":"2025-05-13T16:33:45.529075+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-13T16:33:45.529147+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-13T16:33:47.942919+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-13T16:33:48.745128+01:00","level":"INFO","msg":"handler: closed","stream_id":"fwh58s8z"}
+{"time":"2025-05-13T16:33:48.745156+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"fwh58s8z"}
+{"time":"2025-05-13T16:33:48.745182+01:00","level":"INFO","msg":"sender: closed","stream_id":"fwh58s8z"}
+{"time":"2025-05-13T16:33:48.745466+01:00","level":"INFO","msg":"stream: closed","id":"fwh58s8z"}

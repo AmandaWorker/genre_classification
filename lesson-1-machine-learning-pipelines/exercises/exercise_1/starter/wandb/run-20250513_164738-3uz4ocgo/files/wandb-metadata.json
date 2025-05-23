@@ -1,0 +1,35 @@
+{
+  "os": "macOS-10.16-x86_64-i386-64bit",
+  "python": "CPython 3.8.20",
+  "startedAt": "2025-05-13T15:47:38.838553Z",
+  "args": [
+    "--artifact_name",
+    "exercise_1/zen_of_python:v1"
+  ],
+  "program": "use_artifact.py",
+  "codePath": "use_artifact.py",
+  "email": "workeramanda@gmail.com",
+  "root": "/Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter",
+  "host": "Amandas-MacBook-Pro.local",
+  "executable": "/Users/amandaworker/opt/anaconda3/envs/ML_pipeline/bin/python",
+  "codePathLocal": "use_artifact.py",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "499963174912",
+      "used": "235510091776"
+    },
+    "/System/Volumes/Data": {
+      "total": "499963174912",
+      "used": "235510091776"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 2,
+    "countLogical": 4
+  }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amandaworker/Documents/Udacity/Machine%20Learning%20Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/8d491e49ab0c45339132904264638252/artifacts
+end_time: 1747753106127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8d491e49ab0c45339132904264638252
+run_uuid: 8d491e49ab0c45339132904264638252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747753101978
+status: 4
+tags: []
+user_id: amandaworker

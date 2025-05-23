@@ -1,0 +1,41 @@
+{
+  "os": "macOS-10.16-x86_64-i386-64bit",
+  "python": "CPython 3.8.20",
+  "startedAt": "2025-05-13T19:15:51.884293Z",
+  "args": [
+    "--file_url",
+    "https://raw.githubusercontent.com/scikit-learn/scikit-learn/4dfdfb4e1bb3719628753a4ece995a1b2fa5312a/sklearn/datasets/data/iris.csv",
+    "--artifact_name",
+    "iris",
+    "--artifact_type",
+    "raw_data",
+    "--artifact_description",
+    "This dataset consists of 3 different types of irises (Setosa, Versicolour, and Virginica) petal and sepal length"
+  ],
+  "program": "download_data.py",
+  "codePath": "download_data.py",
+  "email": "workeramanda@gmail.com",
+  "root": "/Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter",
+  "host": "Amandas-MacBook-Pro.local",
+  "executable": "/Users/amandaworker/opt/anaconda3/envs/ML_pipeline/bin/python",
+  "codePathLocal": "download_data.py",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "499963174912",
+      "used": "236901879808"
+    },
+    "/System/Volumes/Data": {
+      "total": "499963174912",
+      "used": "236901879808"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 2,
+    "countLogical": 4
+  }
+}

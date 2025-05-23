@@ -1,0 +1,44 @@
+{
+    "os": "macOS-12.7.6-x86_64-i386-64bit",
+    "python": "3.9.22",
+    "heartbeatAt": "2025-05-20T15:14:48.318266",
+    "startedAt": "2025-05-20T15:14:47.022029",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "exercise_6/data_train.csv:latest",
+        "--model_config",
+        "/Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/outputs/2025-05-20/16-12-28/random_forest_config.json"
+    ],
+    "state": "running",
+    "program": "/Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "run.py",
+    "host": "Amandas-MacBook-Pro.local",
+    "username": "amandaworker",
+    "executable": "/opt/miniconda3/envs/mlflow-6ad30c7f773cc61dddb66fdbe8000959bdd76f06/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 465.62699127197266,
+            "used": 14.360183715820312
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

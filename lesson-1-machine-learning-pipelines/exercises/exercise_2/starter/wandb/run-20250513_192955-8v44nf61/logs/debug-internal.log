@@ -1,0 +1,17 @@
+{"time":"2025-05-13T19:29:55.656707+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/wandb/run-20250513_192955-8v44nf61/logs/debug-core.log"}
+{"time":"2025-05-13T19:29:55.668193+01:00","level":"ERROR","msg":"monitor: failed to initialize GPU asset: monitor: could not start GPU binary: fork/exec /Users/amandaworker/opt/anaconda3/envs/ML_pipeline/lib/python3.8/site-packages/wandb/bin/gpu_stats: bad CPU type in executable"}
+{"time":"2025-05-13T19:29:56.021783+01:00","level":"INFO","msg":"created new stream","id":"8v44nf61"}
+{"time":"2025-05-13T19:29:56.021864+01:00","level":"INFO","msg":"stream: started","id":"8v44nf61"}
+{"time":"2025-05-13T19:29:56.021903+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"8v44nf61"}
+{"time":"2025-05-13T19:29:56.021925+01:00","level":"INFO","msg":"handler: started","stream_id":"8v44nf61"}
+{"time":"2025-05-13T19:29:56.021919+01:00","level":"INFO","msg":"sender: started","stream_id":"8v44nf61"}
+{"time":"2025-05-13T19:29:56.412556+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-13T19:29:59.980845+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-13T19:29:59.980899+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-13T19:30:00.90128+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-13T19:30:00.987301+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.085862476}],"total_operations":1}}
+{"time":"2025-05-13T19:30:01.519344+01:00","level":"INFO","msg":"stream: closing","id":"8v44nf61"}
+{"time":"2025-05-13T19:30:01.519382+01:00","level":"INFO","msg":"handler: closed","stream_id":"8v44nf61"}
+{"time":"2025-05-13T19:30:01.519424+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"8v44nf61"}
+{"time":"2025-05-13T19:30:01.519449+01:00","level":"INFO","msg":"sender: closed","stream_id":"8v44nf61"}
+{"time":"2025-05-13T19:30:01.519621+01:00","level":"INFO","msg":"stream: closed","id":"8v44nf61"}

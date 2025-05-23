@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amandaworker/Documents/Udacity/Machine%20Learning%20Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-4-training-validation-experiment-tracking/exercises/exercise_10/starter/mlruns/0/1b4df5eaa61f465d883a4673ae1a7372/artifacts
+end_time: 1747754096558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b4df5eaa61f465d883a4673ae1a7372
+run_name: overjoyed-seal-575
+run_uuid: 1b4df5eaa61f465d883a4673ae1a7372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747753949067
+status: 4
+tags: []
+user_id: amandaworker

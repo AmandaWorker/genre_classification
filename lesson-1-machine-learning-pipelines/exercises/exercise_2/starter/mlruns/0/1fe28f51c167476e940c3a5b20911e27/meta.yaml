@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amandaworker/Documents/Udacity/Machine%20Learning%20Engineer/reproducible_workflow/nd0821-c2-build-model-workflow-exercises-master/lesson-1-machine-learning-pipelines/exercises/exercise_2/starter/mlruns/0/1fe28f51c167476e940c3a5b20911e27/artifacts
+end_time: 1747163670169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1fe28f51c167476e940c3a5b20911e27
+run_uuid: 1fe28f51c167476e940c3a5b20911e27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747163667520
+status: 4
+tags: []
+user_id: amandaworker
