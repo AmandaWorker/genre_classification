@@ -28,6 +28,7 @@ def go(args):
 
     logger.info("Downloading and reading the exported model")
     model_export_path = run.use_artifact(args.model_export).download()
+    
 
     pipe = mlflow.sklearn.load_model(model_export_path)
 

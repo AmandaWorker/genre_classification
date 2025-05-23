@@ -63,4 +63,4 @@ random_forest_pipeline:
       - "key"
     nlp:
       - "text_feature"
-  export_artifact: "model_export"
+  export_artifact: "model_export:latest"

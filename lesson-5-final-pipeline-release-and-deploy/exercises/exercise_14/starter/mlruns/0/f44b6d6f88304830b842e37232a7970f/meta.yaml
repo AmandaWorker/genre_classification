@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amandaworker/Documents/Udacity/Machine%20Learning%20Engineer/reproducible_workflow/genre_classification/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/f44b6d6f88304830b842e37232a7970f/artifacts
+end_time: 1748014864552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f44b6d6f88304830b842e37232a7970f
+run_uuid: f44b6d6f88304830b842e37232a7970f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748014843778
+status: 3
+tags: []
+user_id: amandaworker
