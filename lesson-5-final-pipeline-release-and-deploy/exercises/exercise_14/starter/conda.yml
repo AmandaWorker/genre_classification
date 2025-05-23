@@ -12,3 +12,4 @@ dependencies:
       - wandb==0.10.21
       - hydra-joblib-launcher==1.1.2
       - protobuf==3.20.0
+      - databricks-cli==0.17.6

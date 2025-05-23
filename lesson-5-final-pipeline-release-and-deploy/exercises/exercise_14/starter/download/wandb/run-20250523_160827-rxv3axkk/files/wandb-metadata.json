@@ -1,0 +1,54 @@
+{
+    "os": "macOS-12.7.6-x86_64-i386-64bit",
+    "python": "3.10.17",
+    "heartbeatAt": "2025-05-23T15:08:28.358027",
+    "startedAt": "2025-05-23T15:08:27.389863",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/genre_classification/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/download/download_data.py",
+    "codePathLocal": "download_data.py",
+    "codePath": "lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/download/download_data.py",
+    "git": {
+        "remote": "git@github.com:AmandaWorker/genre_classification.git",
+        "commit": "a4e98d6aa8f05f294f27e21e72f06caf7bd52cb2"
+    },
+    "email": null,
+    "root": "/Users/amandaworker/Documents/Udacity/Machine Learning Engineer/reproducible_workflow/genre_classification",
+    "host": "Amandas-MacBook-Pro.local",
+    "username": "amandaworker",
+    "executable": "/opt/miniconda3/envs/mlflow-e190ff1f176d660e6839ac34c7d6bc74393e2ccd/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 465.62699127197266,
+            "used": 14.360183715820312
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
